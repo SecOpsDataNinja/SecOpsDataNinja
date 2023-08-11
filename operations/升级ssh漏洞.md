@@ -8,7 +8,7 @@
 
 - 参考文章
 
-  [https://www.cnblogs.com/ippondo/p/16573478.html]: 点此查看
+  https://www.cnblogs.com/ippondo/p/16573478.html
 
 #### 内网主机升级准备
 
